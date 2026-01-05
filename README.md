@@ -43,7 +43,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone [https://github.com/SeaCoast/Scholar-Agent-Pro.git](https://github.com/SeaCoast/Scholar-Agent-Pro.git)
+git clone [https://github.com/Sea-Coast/Scholar-Agent-Pro.git](https://github.com/Sea-Coast/Scholar-Agent-Pro.git)
 cd Scholar-Agent-Pro
 
 ```
