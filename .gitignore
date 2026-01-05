@@ -1,0 +1,17 @@
+# === 忽略配置文件 (保护 Key) ===
+web_config.json
+config.json
+
+# === 忽略数据文件 (保护隐私) ===
+history_map.json
+incoming/
+MyLibrary/
+*.pdf
+
+# === 忽略 Python 缓存和环境 ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store

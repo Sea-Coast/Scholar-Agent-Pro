@@ -1,0 +1,8 @@
+{
+    "api_key": "sk-在此处填入你的Key",
+    "base_url": "https://api.openai.com/v1",
+    "model_name": "gpt-4o-mini",
+    "proxy_url": "http://127.0.0.1:7890",
+    "watch_dir": "./incoming",
+    "library_dir": "./MyLibrary"
+}
